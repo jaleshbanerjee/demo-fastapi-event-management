@@ -1,0 +1,28 @@
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+backend/build/
+# Virtual environment
+venv/
+env/
+*.env
+
+# Django specific
+*.log
+db.sqlite3
+/media/
+*.sqlite3
+*.pyc
+.DS_Store
+.migrations/
+
+# Ignore secrets and environment variables
+.env
+*.pem
