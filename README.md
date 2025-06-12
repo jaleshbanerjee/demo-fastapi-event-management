@@ -14,7 +14,7 @@ This is a simple event management system built using **FastAPI**, **SQLAlchemy (
 
 ### 1.1. Clone the repository
 ```
-git clone https://github.com/your-username/fastapi-event-mgmt.git
+git clone https://github.com/jaleshbanerjee/demo-fastapi-event-management.git
 cd fastapi_app
 ```
 ### 1.2. Create and activate a virtual environment
